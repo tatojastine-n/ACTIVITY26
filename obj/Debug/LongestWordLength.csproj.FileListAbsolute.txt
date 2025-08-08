@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\LongestWordLength\bin\Debug\LongestWordLength.exe.config
+C:\Users\HP\source\repos\LongestWordLength\bin\Debug\LongestWordLength.exe
+C:\Users\HP\source\repos\LongestWordLength\bin\Debug\LongestWordLength.pdb
+C:\Users\HP\source\repos\LongestWordLength\obj\Debug\LongestWordLength.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LongestWordLength\obj\Debug\LongestWordLength.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LongestWordLength\obj\Debug\LongestWordLength.exe
+C:\Users\HP\source\repos\LongestWordLength\obj\Debug\LongestWordLength.pdb
